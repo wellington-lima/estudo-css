@@ -24,10 +24,15 @@ a {
 nav {
     height: 70px;
     background-color: black;
-    color: purple;
+    color: #1572B6;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
+    padding-left: 10px;
+}
+
+.nav-bar .css-icon {
+    padding-right: 20px;
 }
 .content {
     width: 100%;
@@ -77,6 +82,9 @@ nav {
 
 <body>
     <nav class="nav-bar">
+        <div class="css-icon">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+        </div>
         <h1>Projetos de estudo CSS</h1>
     </nav>
 
@@ -86,7 +94,7 @@ nav {
                 <img src="assets/img/menu_horizontal_responsivo.png" alt="">
             </div>
             <div class="title">
-                <a href="/menu-horizontal-responsivo/index.html" target="_blank" >
+                <a href="./menu-horizontal-responsivo/index.html" target="_blank" >
                     Menu Horizontal Responsivo
                 </a>
                 
