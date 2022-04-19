@@ -1,8 +1,4 @@
-## Estudo CSS
-<p align="center">Projetos para estudo de CSS</p>
-<hr>
-
-### :link: Projetos
+## Projetos para estudo de CSS
 :computer: [Menu responsivo](http://sophysistemas.com/estudos-css/)
  
 <br>
