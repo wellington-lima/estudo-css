@@ -1,7 +1,7 @@
 ## Projetos práticos HTML, CSS e JavaScript
-:earth_americas: [Menu responsivo](http://sophysistemas.com/portfolio/menu-horizontal-responsivo/){:target="_blank" rel="noopener"}
+:earth_americas: <a href="http://sophysistemas.com/portfolio/menu-horizontal-responsivo/" target="_blank">Menu responsivo</a>
 <br>
-:earth_americas: [Simulador de empréstimo](http://sophysistemas.com/portfolio/simulador-emprestimo/){:target="_blank" rel="noopener"}
+:earth_americas: <a href="http://sophysistemas.com/portfolio/simulador-emprestimo/" target="_blank">Simulador de empréstimo</a>
  
 <br>
 <hr>
