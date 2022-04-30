@@ -1,5 +1,6 @@
 ## Projetos HTML, CSS e JavaScript
-:computer: [Menu responsivo](http://sophysistemas.com/estudos-css/)
+:computer: [Menu responsivo](http://sophysistemas.com/portfolio/menu-horizontal-responsivo/)
+:computer: [Simulador de empréstimo](http://sophysistemas.com/portfolio/simulador-emprestimo/)
  
 <br>
 <hr>
