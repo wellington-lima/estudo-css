@@ -1,4 +1,4 @@
-## Projetos para estudo de CSS
+## Projetos HTML, CSS e JavaScript
 :computer: [Menu responsivo](http://sophysistemas.com/estudos-css/)
  
 <br>
