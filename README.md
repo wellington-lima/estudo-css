@@ -1,7 +1,7 @@
 ## Projetos práticos HTML, CSS e JavaScript
-:earth_americas: [Menu responsivo](http://sophysistemas.com/portfolio/menu-horizontal-responsivo/)
+:earth_americas: [Menu responsivo](http://sophysistemas.com/portfolio/menu-horizontal-responsivo/)markdown: kramdown
 <br>
-:earth_americas: [Simulador de empréstimo](http://sophysistemas.com/portfolio/simulador-emprestimo/)
+:earth_americas: [Simulador de empréstimo](http://sophysistemas.com/portfolio/simulador-emprestimo/)markdown: kramdown
  
 <br>
 <hr>
