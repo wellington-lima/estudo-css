@@ -1,7 +1,7 @@
 ## Projetos HTML, CSS e JavaScript
-:computer: [Menu responsivo](http://sophysistemas.com/portfolio/menu-horizontal-responsivo/)
+:earth_americas: [Menu responsivo](http://sophysistemas.com/portfolio/menu-horizontal-responsivo/)
 <br>
-:computer: [Simulador de empréstimo](http://sophysistemas.com/portfolio/simulador-emprestimo/)
+:earth_americas: [Simulador de empréstimo](http://sophysistemas.com/portfolio/simulador-emprestimo/)
  
 <br>
 <hr>
@@ -11,6 +11,8 @@
  <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/css3-plain-wordmark.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
  </tr>
 </table>
 <br>
