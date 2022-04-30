@@ -1,4 +1,4 @@
-## Projetos HTML, CSS e JavaScript
+## Projetos práticos HTML, CSS e JavaScript
 :earth_americas: [Menu responsivo](http://sophysistemas.com/portfolio/menu-horizontal-responsivo/)
 <br>
 :earth_americas: [Simulador de empréstimo](http://sophysistemas.com/portfolio/simulador-emprestimo/)
