@@ -2,6 +2,8 @@
 :earth_americas: <a href="http://sophysistemas.com/portfolio/menu-horizontal-responsivo/" target="_blank">Menu responsivo</a>
 <br>
 :earth_americas: <a href="http://sophysistemas.com/portfolio/simulador-emprestimo/" target="_blank">Simulador de empréstimo</a>
+<br>
+:earth_americas: <a href="http://sophysistemas.com/portfolio/landing-page/" target="_blank">Landing Page</a>
  
 <br>
 <hr>
