@@ -9,7 +9,6 @@
 <br>
 :earth_americas: <a href="http://sophysistemas.com/portfolio/logo-instagram.html/" target="_blank">Logo Instagram</a> 
 <br>
-<br>
 :earth_americas: <a href="http://sophysistemas.com/portfolio/bandeira-brasil.html/" target="_blank">Bandeira do Brasil</a>
 <hr>
 
