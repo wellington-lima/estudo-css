@@ -7,9 +7,9 @@
 <br>
 :earth_americas: <a href="http://sophysistemas.com/portfolio/instagram-home/" target="_blank">Página Home do Instagram</a>
 <br>
-:earth_americas: <a href="http://sophysistemas.com/portfolio/logo-instagram.html/" target="_blank">Logo Instagram</a> 
+:earth_americas: <a href="http://sophysistemas.com/portfolio/logo-instagram.html" target="_blank">Logo Instagram</a> 
 <br>
-:earth_americas: <a href="http://sophysistemas.com/portfolio/bandeira-brasil.html/" target="_blank">Bandeira do Brasil</a>
+:earth_americas: <a href="http://sophysistemas.com/portfolio/bandeira-brasil.html" target="_blank">Bandeira do Brasil</a>
 <hr>
 
 ### :zap: Tecnologias
