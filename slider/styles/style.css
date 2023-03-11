@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider {
+  margin: 0 auto;
+  width: 800px;
+  height: 400px;
+  overflow: hidden;
+}
+.slider .slides {
+  width: 400%;
+  height: 400px;
+  display: flex;
+}
+.slider .slides input {
+  display: none;
+}
+.slider .slides .navigation-auto div {
+  border: 2px solid #20a6ff;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 1s;
+}
+.slider .slides .navigation-auto {
+  position: absolute;
+  width: 800px;
+  margin-top: 360px;
+  display: flex;
+  justify-content: center;
+}
+.slider .slides .navigation-auto div:not(:last-child) {
+  margin-right: 40px;
+}
+.slider .slides .slide {
+  width: 25%;
+  position: relative;
+  transition: 2s;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.slider .slides .slide img {
+  width: 100%;
+  height: 380px;
+}
+.slider .slides #radio1:checked ~ .first {
+  margin-left: 0;
+}
+.slider .slides #radio2:checked ~ .first {
+  margin-left: -800px;
+}
+.slider .slides #radio3:checked ~ .first {
+  margin-left: -1600px;
+}
+.slider .slides #radio4:checked ~ .first {
+  margin-left: -2400px;
+}
+.slider .slides #radio1:checked ~ .navigation-auto .auto-btn1 {
+  background-color: #fff;
+}
+.slider .slides #radio2:checked ~ .navigation-auto .auto-btn2 {
+  background-color: #fff;
+}
+.slider .slides #radio3:checked ~ .navigation-auto .auto-btn3 {
+  background-color: #fff;
+}
+.slider .slides #radio4:checked ~ .navigation-auto .auto-btn4 {
+  background-color: #fff;
+}
+.slider .manual-navigation {
+  position: absolute;
+  width: 800px;
+  margin-top: -40px;
+  display: flex;
+  justify-content: center;
+}
+.slider .manual-navigation .manual-btn {
+  border: 2px solid #fff;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.08s;
+}
+.slider .manual-navigation .manual-btn:not(:last-child) {
+  margin-right: 40px;
+}
+.slider .manual-navigation .manual-btn:hover {
+  background-color: #fff;
+}
+
+.small-slider {
+  margin-top: 50px;
+  width: 60%;
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.small-slider .navigation {
+  width: 5%;
+  position: relative;
+}
+.small-slider .navigation i {
+  font-size: 70px;
+  cursor: pointer;
+}
+.small-slider .content {
+  display: flex;
+  overflow: hidden;
+  margin-left: 10px;
+}
+.small-slider .content .group {
+  display: flex;
+  position: relative;
+  transition: 2s;
+}
+.small-slider .content img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 20px;
+}/*# sourceMappingURL=style.css.map */

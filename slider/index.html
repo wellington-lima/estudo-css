@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="./styles/style.css">
+  <title>Slider com HTML e CSS</title>
+</head>
+
+<body>
+  <div class="slider">
+    <div class="slides">
+      <input type="radio" name="radio-btn" id="radio1">
+      <input type="radio" name="radio-btn" id="radio2">
+      <input type="radio" name="radio-btn" id="radio3">
+      <input type="radio" name="radio-btn" id="radio4">
+
+      <div class="slide first">
+        <img src="images/img1.jpg" class="preenchimento" alt="imagem dev 1">
+      </div>
+
+      <div class="slide">
+        <img src="images/img2.jpg" alt="imagem dev 2">
+      </div>
+
+      <div class="slide">
+        <img src="images/img3.jpg" alt="imagem dev 3">
+      </div>
+
+      <div class="slide">
+        <img src="images/img4.jpg" alt="imagem dev 4">
+      </div>
+
+      <div class="navigation-auto">
+        <div class="auto-btn1"></div>
+        <div class="auto-btn2"></div>
+        <div class="auto-btn3"></div>
+        <div class="auto-btn4"></div>
+      </div>
+    </div>
+
+    <div class="manual-navigation">
+      <label for="radio1" class="manual-btn"></label>
+      <label for="radio2" class="manual-btn"></label>
+      <label for="radio3" class="manual-btn"></label>
+      <label for="radio4" class="manual-btn"></label>
+    </div>
+  </div>
+
+  <div class="small-slider">
+    <div class="navigation" id="arrowLeft">
+      <i class="large material-icons">chevron_left</i>
+    </div>
+
+    <div class="content">
+      <div class="group first-group">
+        <img src="images/img5.jpg" alt="foto 01">
+        <img src="images/img5.jpg" alt="foto 02">
+        <img src="images/img5.jpg" alt="foto 03">
+        <img src="images/img5.jpg" alt="foto 04">
+        <img src="images/img5.jpg" alt="foto 05">
+        <img src="images/img5.jpg" alt="foto 06">
+      </div>
+
+      <div class="group">
+        <img src="images/img6.jpg" alt="foto 01">
+        <img src="images/img6.jpg" alt="foto 02">
+        <img src="images/img6.jpg" alt="foto 03">
+        <img src="images/img6.jpg" alt="foto 04">
+        <img src="images/img6.jpg" alt="foto 05">
+        <img src="images/img6.jpg" alt="foto 06">
+      </div>
+
+      <div class="group">
+        <img src="images/img7.jpg" alt="foto 01">
+        <img src="images/img7.jpg" alt="foto 02">
+        <img src="images/img7.jpg" alt="foto 03">
+        <img src="images/img7.jpg" alt="foto 04">
+        <img src="images/img7.jpg" alt="foto 05">
+        <img src="images/img7.jpg" alt="foto 06">
+      </div>
+
+      <div class="group">
+        <img src="images/img8.jpg" alt="foto 01">
+        <img src="images/img8.jpg" alt="foto 02">
+        <img src="images/img8.jpg" alt="foto 03">
+        <img src="images/img8.jpg" alt="foto 04">
+        <img src="images/img8.jpg" alt="foto 05">
+        <img src="images/img8.jpg" alt="foto 06">
+      </div>
+
+    </div>
+
+    <div class="navigation" id="arrowRigth">
+      <i class="large material-icons">chevron_right</i>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
